@@ -1,0 +1,15 @@
+{
+  "name": "kbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "custom-env": "^2.0.1",
+    "discord.js": "^12.3.1"
+  }
+}
